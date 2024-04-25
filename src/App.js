@@ -23,7 +23,7 @@ function App() {
 
   return (
     <div>
-      <h1>To-Do List</h1>
+      <h1>To_do_list lb2</h1>
       <input
         type="text"
         value={inputValue}
